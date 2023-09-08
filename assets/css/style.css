@@ -1695,3 +1695,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 .message_job .lnh {
     margin-bottom: 10px;
 }
+
+.about-text-self a {
+  color: var(--light-gray);
+  font-weight: var(--fw-400);
+  text-decoration: underline;
+  display: inline;
+}
